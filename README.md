@@ -4,6 +4,7 @@ setup a new server and make a wordpress site and publish on diode
 # How to run on your Server
 1. login as root
 2. run `curl -Ssf https://raw.githubusercontent.com/EvilTopHat/Wordpress_Diode_Setup/main/setup.sh | sh`
+3. The script will stop twice during the install. On both times, click "Ok" without making any changes to the options. 
 
 # Note on Usage
 * This script is a work in progress. Some features such as setting up automatic updates have not yet been added.
